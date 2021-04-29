@@ -1,12 +1,24 @@
-# Screen Recorder
-![icon](https://user-images.githubusercontent.com/81306360/116521188-eea09800-a8d3-11eb-9ba2-f1e27857c2aa.png)
+# 🟠 Read me! 
 
---------------------------
-# Installation:
 
-**Download newest release ".exe" file from https://github.com/Bajojajo-xD/screen-recorder/releases and install 😎**
+# 🟢 Installation:
 
----------------------------
-# Known bugs:
 
-*Report bugs on https://github.com/Bajojajo-xD/screen-recorder/issues!*
+**🔵 Windows**
+
+- **🔵 Windows:** Download newest "screen-recorder*.exe" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases) and install,
+- **🔵 Windows portable:** Download newest "screen-recorder*.zip" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases), open it, find "System monitor DEV.exe" and run.
+
+
+**🟠 Linux**
+
+- **🟠 Ubuntu/Debian based linux:** Download newest "screen-recorder*.deb" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases) and install,
+- **🧿 Fedora based linux:** Download newest "screen-recorder*.rpm" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases) and install,
+- **🟠 Linux portable:** Download newest "screen-recorder*.AppImage" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases), then right click -> properties -> permissions -> check "allow executing file as program". After it run app clicking on file.
+
+- ***Warning - only 64-bit systems supported***
+
+# 🟠 Known bugs:
+
+
+*Report bugs on https://github.com/Bajojajo-xD/system-monitor/issues!*

@@ -1,7 +1,7 @@
 {
   "name": "screen-recorder",
   "productName": "Screen Recorder DEV",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Records screen",
   "main": "src/index.js",
   "scripts": {
@@ -20,6 +20,13 @@
       ],
       "icon": "src/img/icon.ico"
     },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb",
+        "rpm"
+      ]
+    },
     "nsis": {
       "installerIcon": "src/img/icon.ico",
       "uninstallerIcon": "src/img/icon.ico",
@@ -34,7 +41,7 @@
   },
   "keywords": [],
   "author": {
-    "name": "Bajojajo-xD"
+    "name": "Bajojajo-xD<github.com@Bajojajo-xD>"
   },
   "license": "MIT",
   "config": {
