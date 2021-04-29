@@ -28,6 +28,10 @@
       "allowToChangeInstallationDirectory": true
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bajojajo-xD/screen-recorder"
+  },
   "keywords": [],
   "author": {
     "name": "Bajojajo-xD"
