@@ -11,6 +11,6 @@
 
 - **🟠 Ubuntu/Debian based linux:** Download "screen-recorder*.deb" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases) and update,
 - **🧿 Fedora based linux:** Download "screen-recorder*.rpm" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases) and update,
-- **🟠 Linux portable:** Download "screen-recorder*.AppImage" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases), then right click -> properties -> permissions -> check "allow executing file as program". Remove old "screen-recorder.AppImage". After it run app clicking on file.
+- **🟠 Linux portable:** Download "screen-recorder*.AppImage" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases), then right click -> properties -> permissions -> check "allow executing file as program". Remove old "screen-recorder*.AppImage". After it run app clicking on file.
 
 - ***Warning - only 64-bit system supported***
