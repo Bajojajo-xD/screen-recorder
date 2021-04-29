@@ -4,7 +4,7 @@
 **🔵 Windows**
 
 - **🔵 Windows:** Download "screen-recorder*.exe" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases), double click, follow on-screen instructions,
-- **🔵 Windows portable:** Download "screen-recorder.zip" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases), open, find "System monitor DEV.exe and run. (You can delete old zip app file)
+- **🔵 Windows portable:** Download "screen-recorder*.zip" file from [releases](https://github.com/Bajojajo-xD/screen-recorder/releases), open, find "System monitor DEV.exe and run. (You can delete old zip app file)
 
 
 **🟠 Linux**
