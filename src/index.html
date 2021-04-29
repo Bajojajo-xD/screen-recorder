@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Screen Recorder DEV</title>
+    <link
+      rel="stylesheet"
+      href="bulma.min.css"
+    />
+    <link rel="stylesheet" href="index.css" />
+    <script defer src="render.js"></script>
+  </head>
+  <body class="content">
+    <h1>📷 Electron Screen Recorder</h1>
+
+    <hr />
+    <button id="videoSelectBtn" class="button is-danger">
+      Choose a Video Source
+    </button>
+    <button id="startBtn" class="button is-primary">Start</button>
+    <button id="stopBtn" class="button is-warning">Stop</button>
+    <hr />
+
+    <video></video>
+    <hr />
+    <button id="Vers" class="button is-info">Info</button><br /> <br />
+    <script>
+      const Vers = document.getElementById('Vers');
+        Vers.onclick = e => {
+          window.open(__dirname + "/versions.html", 'targetWindow',
+          'width=350, height=820')
+        };
+    </script>
+  </body>
+</html>
