@@ -8,7 +8,7 @@
     "start": "electron-forge start",
     "package": "electron-forge package",
     "make": "electron-forge make",
-    "publish": "electron-builder -p always -w --x64",
+    "publish": "electron-builder -p -wl always",
     "lint": "echo \"No linting configured\"",
     "build": "electron-builder"
   },
