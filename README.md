@@ -21,4 +21,4 @@
 # 🟠 Known bugs:
 
 
-*Report bugs on https://github.com/Bajojajo-xD/screen-recorder/issues!*
+*Report bugs on [here](https://github.com/Bajojajo-xD/screen-recorder/issues)!*
