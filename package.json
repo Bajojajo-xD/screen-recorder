@@ -8,9 +8,9 @@
     "start": "electron-forge start",
     "package": "electron-forge package",
     "make": "electron-forge make",
-    "publish": "electron-forge publish",
+    "publish": "electron-builder -p always -w --x64",
     "lint": "echo \"No linting configured\"",
-    "build-installer": "electron-builder"
+    "build": "electron-builder"
   },
   "build": {
     "appId": "screen-recorder",
