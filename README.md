@@ -2,7 +2,7 @@
 ![80x80](https://user-images.githubusercontent.com/81306360/116554469-81a0f880-a8fb-11eb-9b29-e226096834d3.png)
 
 
-# 🟢 Installation:
+# 🟢 Installation
 
 
 **🔵 Windows**
@@ -19,7 +19,7 @@
 
 - ***Warning - only 64-bit systems supported***
 
-# 🟠 Known bugs:
+# 🟠 Known bugs
 
 
 *Report bugs [here](https://github.com/Bajojajo-xD/screen-recorder/issues)!*
