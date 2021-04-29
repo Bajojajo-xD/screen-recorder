@@ -4,7 +4,7 @@
 --------------------------
 # Installation:
 
-**Download ".exe" and install :)**
+**Download newest release ".exe" file from https://github.com/Bajojajo-xD/screen-recorder/releases and install :)**
 
 ---------------------------
 # Known bugs:
